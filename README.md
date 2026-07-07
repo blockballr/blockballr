@@ -5,7 +5,7 @@ maker _
 ## Projects
 
 - **HandGloss**: A **Speech → ASL engine**.
-  n/ An experiment in making communication more accessible. Everything runs in-browser _(If you're on mobile, change to desktop view)_. **[Interact](https://handgloss.vercel.app/)**
+  - An experiment in making communication more accessible. Everything runs in-browser _(If you're on mobile, change to desktop view)_. **[Interact](https://handgloss.vercel.app/)**
 - **Faultline**: an autonomous auditor for Anchor smart contracts.
 - **[Radar](https://github.com/blockballr/Radar)**: a free Solana screener and signal agent on Telegram.
 
