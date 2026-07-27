@@ -13,7 +13,6 @@ maker _
   - _(If you're on mobile, change to desktop view)_. **[Interact](https://handgloss.vercel.app/)**
 
   <a href="https://handgloss.vercel.app/"><img src="assets/handgloss-preview.png" alt="HandGloss - speech to ASL engine" width="520"></a>
-- **[Radar](https://github.com/blockballr/Radar)**: a free Solana screener and signal agent on Telegram.
 
 ## Focus
 
