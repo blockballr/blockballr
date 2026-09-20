@@ -2,14 +2,18 @@
 
 maker _
 
-## Projects
+## Links
 
-- **[Divvy](https://divvyplay.club)**: an on-chain sports prediction game. Call the shape of the match, not the score; every question settles on signed, on-chain-anchored match data. Calls are free, and a one-time entry fee puts you in the tournament.
+- [Portfolio](https://blockballr.pages.dev)
+- [heatfm](https://heatfm.onrender.com)
+- [trentorch-tracker](https://github.com/blockballr/trentorch-tracker)
 
-  <a href="https://divvyplay.club"><img src="assets/divvy-preview.png" alt="Divvy - call the shape of the match" width="520"></a>
+## GitHub Stats
 
-- **HandGloss**: A **Speech → ASL engine**.
-  - An experiment in making communication more accessible. Everything runs in-browser
-  - _(If you're on mobile, change to desktop view)_. **[Interact](https://handgloss.vercel.app/)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blockballr&show_icons=true&theme=dark&hide_border=true" alt="block ballr's GitHub stats" />
+</p>
 
-  <a href="https://handgloss.vercel.app/"><img src="assets/handgloss-preview.png" alt="HandGloss - speech to ASL engine" width="520"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blockballr&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
