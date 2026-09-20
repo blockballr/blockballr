@@ -8,6 +8,4 @@
 
 ## Contributions
 
-<a href="https://github.com/zeroclaw-labs/zeroclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroclaw-labs&repo=zeroclaw&theme=dark&hide_border=true" alt="zeroclaw" />
-</a>
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) — provider fix, Telegram approval cards
