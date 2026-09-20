@@ -8,4 +8,4 @@
 
 ## Contributions
 
-[![zeroclaw PRs](https://img.shields.io/badge/zeroclaw-2%20PRs-5860F7?logo=github&logoColor=white)](https://github.com/zeroclaw-labs/zeroclaw/pulls?q=is%3Apr+author%3Ablockballr)
+[![zeroclaw](https://img.shields.io/badge/zeroclaw-2-orange.svg)](https://github.com/zeroclaw-labs/zeroclaw/pulls?q=is%3Apr+author%3Ablockballr)
