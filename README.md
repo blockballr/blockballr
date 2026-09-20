@@ -1,5 +1,3 @@
-# block ballr
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blockballr&theme=dark&label=Profile+Views" alt="Profile Views" />
 </p>
